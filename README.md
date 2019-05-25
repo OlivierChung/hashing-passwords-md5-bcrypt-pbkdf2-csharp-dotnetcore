@@ -6,5 +6,8 @@
 ## Read My Accompanying Blog
 - https://www.simongilbert.net/hashing-passwords-md5-bcrypt-pbkdf2-csharp-dotnetcore/
 
+## Read My Other Blogs
+- https://www.simongilbert.net
+
 ### License
 See the [LICENSE](LICENSE.md) file for license rights and limitations (MIT).
